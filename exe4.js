@@ -17,4 +17,4 @@ console.log(median);
 
 const halfYear= grades.slice(halfi,9);
 const range2=Math.max(...halfYear)-Math.min(...halfYear);
-console.log(range2)
+console.log(range2);
